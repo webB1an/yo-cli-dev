@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@yo-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "7dc8ebff0cd3a672ed1ea4fa5fe3bebdd14e690c"
 }

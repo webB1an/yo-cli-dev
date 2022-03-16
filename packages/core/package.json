@@ -1,6 +1,6 @@
 {
   "name": "@yo-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yo-cli-dev core",
   "author": "webB1an <webB1anyaoyao@gmail.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yo-cli-dev/utils": "^1.0.0"
+    "@yo-cli-dev/utils": "^1.0.1"
   }
 }
